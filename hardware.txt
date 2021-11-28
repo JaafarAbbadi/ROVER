@@ -1,0 +1,3 @@
+-jetson nano developer kit
+- car rover and motors
+- RC tx and rx
